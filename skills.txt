@@ -1,0 +1,9 @@
+Скиллы на курсе:
+- Git
+- JS
+- PlayWright
+-Selenium
+-Jenkins
+-Github Actions
+-Cucumber
+-CI/CD
