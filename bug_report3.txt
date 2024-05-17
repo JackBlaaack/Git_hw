@@ -1,0 +1,12 @@
+Id: 2
+Summary: Bug report2
+Version: 1.2
+severity: Minor
+Enviroment: Windows 10
+Steps to reproduce :
+1.First_ step
+2.Second_ step
+3.Third_ step
+Expected Result: result
+Actual Result: result2
+Attachments: image.png
