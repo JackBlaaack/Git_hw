@@ -1,1 +1,12 @@
-
+Id: 1
+Summary: Bug report
+Version: 1.1
+severity: Major
+Enviroment: Windows 10 Pro
+Steps to reproduce:
+1.First step
+2.Second step
+3.Third step
+Expected Result: result
+Actual Result: result2
+Attachments: image.png
